@@ -1,0 +1,20 @@
+{
+    "bucket": "dup-tenant-a",
+    "contentLanguage": "en",
+    "contentType": "text/plain",
+    "crc32c": "AAAAAA==",
+    "etag": "CP+90aLFmN4CEAE=",
+    "generation": "1540159507291903",
+    "id": "dup-tenant-a/g.txt/1540159507291903",
+    "kind": "storage#object",
+    "md5Hash": "1B2M2Y8AsgTpgAmY7PhCfg==",
+    "mediaLink": "https://www.googleapis.com/download/storage/v1/b/dup-tenant-a/o/g.txt?generation=1540159507291903&alt=media",
+    "metageneration": "1",
+    "name": "g.txt",
+    "selfLink": "https://www.googleapis.com/storage/v1/b/dup-tenant-a/o/g.txt",
+    "size": "0",
+    "storageClass": "REGIONAL",
+    "timeCreated": "2018-10-21T22:05:07.291Z",
+    "timeStorageClassUpdated": "2018-10-21T22:05:07.291Z",
+    "updated": "2018-10-21T22:05:07.291Z"
+}
